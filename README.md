@@ -3,4 +3,4 @@ This single line of code can life inside any theme, allowing you to go back as a
 
 #How to use
 
-Navigate to whatever file you placed it in, and and add the following PHP varible: uc=true
+Navigate to whatever file you placed it in, and and add the following varible in the URL: ?uc=true
