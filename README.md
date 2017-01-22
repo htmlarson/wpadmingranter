@@ -1,5 +1,5 @@
 # wpadmingranter
-This single line of code can life inside any theme, allowing you to go back as a user and grant yourself admin permissions in wordpress -- as long as the venerability is there.  
+This single line of code can life inside any theme, allowing you to go back as a user and grant yourself admin permissions in wordpress -- as long as the hole is there.  
 
 #How to use
 
